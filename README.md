@@ -23,11 +23,11 @@ Bootstrap: For responsive layout (optional inclusion in the project).
 
 How to Play
 Open the index.html file in a web browser.
-Press any key to start the game.
+Press the start button to start the game.
 Watch the sequence of colors shown by the game.
 Repeat the sequence by clicking the colored buttons in the correct order.
 The game will add a new color to the sequence with each level. Repeat until you make a mistake.
-If you enter the sequence incorrectly, the game will indicate "Game Over" and you can restart by pressing any key.
+If you enter the sequence incorrectly, the game will indicate "Game Over" and you can restart by pressing the restart button.
 
 Acknowledgements
 Developed by Nitin Moturu. Special thanks to App Brewery for their excellent tutorials and resources.
